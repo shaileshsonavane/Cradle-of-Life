@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\CrowdFundingWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1005859470.index
+1836748321.index
+1773124894.index
+1817205730.index
+1665810192.index
+3160614974.index
